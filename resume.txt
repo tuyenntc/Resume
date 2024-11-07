@@ -1,0 +1,45 @@
+RESUME FOR PORTFOLIO PAGE [more details on Projects and Work His]
+
+TUYEN, THI CHU NGUYEN(MS.)
+
+Organized and detail-oriented professional with a background in process optimization, data management and customer service. Having recently relocated to Prague, I am looking for analytical roles in Process, Business or Data domains. I am committed to leveraging my analytical skills and technical knowledge to learn and grow professionally.
+I am based in Prague, have a long-term residence permit and am eligible to work in the Czech Republic.
+
+INFORMATION
+
+Phone number: +420 773 710 677
+Email: tuyenntc@gmail.com 
+Github: https://github.com/tuyenntc
+Linkedin: https://www.linkedin.com/in/tuyenntc/
+
+WORK HISTORY
+Collection Process Analyst - Home Credit Vietnam | 2019 - 2022
+
+* Developed Collection processes which comply with new changes and requirements from the State Bank of Viet Nam regarding local Collection practices and Customer support during Covid-19 pandemic while upholding confidentiality standards and adhering to Group guidelines from headquarters in Prague.
+Example: Due to the Covid situation, we needed to take actions swiftly: inform clients about a new Loan Restructuring tool, having in place a process to handle all incoming LS requests and change system parameters to handle each step automatically.
+* Optimized processes while collaborating across departments to drive strategic improvements, with focus on increasing cash collected while decreasing complaints regarding collection activities.
+Example: Late collection call center team using predictive dialing instead of manual dialing resulting in 50 % increased efficiency and 20 % increased cash collected.
+* Followed up with any implementation changes and made necessary adjustments to finetune our existing processes. 
+Example: Listen to call recordings, give and receive feedback from operational teams
+
+Customer Experience Trainer | Grab Vietnam | 2017 - 2019
+
+* Developed training programs to enhance service quality and efficiency, resulting in consistent customer satisfaction.
+* Cooperated with The Quality Control team to do follow-ups, feedback, coaching and retraining of operators.
+
+Collection Project Coordinator - Home Credit Vietnam | 2012 - 2017
+* Streamlined collection processes to boost collection performance.
+* Investigated problems (drop in performance in a specific group, increased number of cases of operator cheating) and proposed solutions to said problems.
+* Lead Collection Projects with focus on improving Training Operator, Quality Control and testing our new approaches (Minimize cheating in Collection activities, automize PTP Followups, Train the trainers, etc.)
+SKILLS
+MySQL, C, Bash, Shell Scripting, Git, Python, HTML, CSS, JavaScript, Microsoft Office, Jira
+
+PORTFOLIO
+[ADD CONTENT HERE FOR THE PORTFOLIO]
+
+EDUCATION
+Hoa Sen University - English Literature (BA) - December 2011
+Web Application Full-stack Coding Bootcamp Praha - July 2023
+42Prague - Software Engineering - From November 2023 - Present 
+
+REFERENCE: Reference will be provided on request
